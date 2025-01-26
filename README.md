@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Machine Learning / Deep Learning<br><br>✨ Creating bugs since 2020</p>
+<p align="left">📚 I love training ML models and deep neural nets<br><br>✨ Creating bugs since 2020</p>
 
 ###
 
