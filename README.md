@@ -2,7 +2,9 @@
 
 ###
 
-<p align="left">I am Ivan, AI / ML engineer from Russia.<br><br>Interests: software engineering, artificial intelligence / machine learning / deep learning / computer vision, starups, product development.<br><br>I have 2 years of experience in IT industry and software development, possess a solid math background, and understand business. I have strong moral standards, always get things done, execute well, and excel at efficiency and productivity improvement. Inspired by technology, keen on improving the world, obsessed with innovation, product engineering and design.</p>
+<p align="left">I am Ivan, AI / ML engineer from Russia.<br><br>Passionate about creating useful software. Particularly interested and specialize in AI / ML / DL / CV. Possess knowledge and experience in startups and product development.<br>
+  
+<br>I have 2 years of experience in IT industry and software development, possess a solid math background, and understand business. I have strong moral standards, always get things done, execute well, and excel at efficiency and productivity improvement. Inspired by technology, keen on improving the world, obsessed with innovation, product engineering and design.</p>
 
 ###
 
