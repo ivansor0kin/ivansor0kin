@@ -1,5 +1,3 @@
-<h1 align="left">Perhaps, nothing interesting here</h1>
-
 ###
 
 <p align="left">I am Ivan, AI / ML engineer from Russia.<br><br>Passionate about creating useful software. Particularly interested and specialize in AI / ML / DL / CV. Possess knowledge and experience in startups and product development.<br>
